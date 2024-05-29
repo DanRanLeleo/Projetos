@@ -1,1 +1,1 @@
-print("Inicializando isso...")
+print("Inicializando...")
